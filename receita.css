@@ -83,11 +83,14 @@ figure {
 figure:hover {
   transform: rotate(-5deg);
 }
+
 #banner{
     top: 0;
     right: 0;
     position:fixed;
 }
+
+
 
 #foto img {
   width: 300px;
